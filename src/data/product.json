@@ -1,0 +1,57 @@
+[
+    {
+        "id": "1",
+        "sku": "",
+        "name": "OnePlus 6T",
+        "category": "Mobile",
+        "stock": 50,
+        "price": 37999,
+        "rating": 5,
+        "imageURL": "https://s3-ap-southeast-1.amazonaws.com/he-public-data/one6t7906568.jpg",
+        "description": "OnePlus 6T (Mirror Black, 6GB RAM, 128GB Storage)"
+    },
+    {
+        "id": "2",
+        "sku": "",
+        "name": "Samsung A8+",
+        "category": "Mobile",
+        "stock": 45,
+        "price": 23990,
+        "rating": 4,
+        "imageURL": "https://s3-ap-southeast-1.amazonaws.com/he-public-data/samsung_a8481e548.jpg",
+        "description": "Samsung Galaxy A8+ (Black, 6GB RAM, 64GB Storage)"
+    },
+    {
+        "id": "3",
+        "sku": "",
+        "name": "Moto G6 Plus",
+        "category": "Mobile",
+        "stock": 20,
+        "price": 17999,
+        "rating": 3,
+        "imageURL": "https://s3-ap-southeast-1.amazonaws.com/he-public-data/motog6c51436f.jpg",
+        "description": "Moto G6 Plus (Indigo Black, 6+64 GB)"
+    },
+    {
+        "id": "4",
+        "sku": "",
+        "name": "Redmi Y2",
+        "category": "Mobile",
+        "stock": 30,
+        "price": 9499,
+        "rating": 2,
+        "imageURL": "https://s3-ap-southeast-1.amazonaws.com/he-public-data/mi_phone03725f4.jpg",
+        "description": "Redmi Y2 (Gold, 3GB RAM, 32GB Storage)"
+    },
+    {
+        "id": "5",
+        "sku": "",
+        "name": "MSI",
+        "category": "Laptop",
+        "stock": 72,
+        "price": 59990,
+        "rating": 5,
+        "imageURL": "https://s3-ap-southeast-1.amazonaws.com/he-public-data/msi_gamingb7e78bd.jpg",
+        "description": "MSI GF63 Intel Core i5 8th Gen 15.6-inch Gaming FHD Thin and Light Laptop (8GB/1TB HDD/Windows 10/4GB Graphics/Black/1.86 Kg), GF63 8RC- 211IN"
+    }
+]
